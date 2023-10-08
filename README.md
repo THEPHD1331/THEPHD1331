@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @THEPHD1331
-- 👀 I’m interested in Java Development, Spring boot development, REST APIs, Web Apps.
-- 🌱 I’m currently working on some java projects 
-- 💞️ I’m looking to collaborate on Spring boot Projects.
-- 📫 How to reach me 
+- 👋 Hi, I’m Paras Dongre. 
+- 👀 I’m interested in Java Development, Spring boot development, REST APIs, Web Apps, Cloud Deployment.
+- 🌱 I’m currently working on some java projects .
+- 💞️ I’m looking to collaborate on Java Spring boot Projects or Full Stack Java Projects.
+
+  
 
 - My Badges: 
 
