@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Dongre</h1>
-<h3 align="center">A passionate Spring Boot developer</h3>
+<h3 align="center">A Spring Boot developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thephd1331&label=Profile%20views&color=0e75b6&style=flat" alt="thephd1331" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on **spring boot projects, full stack java projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/THEPHD1331?tab=repositories](https://github.com/THEPHD1331?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/THEPHD1331?tab=repositories)
 
 - 💬 Ask me about **java, spring boot, REST APIs.**
 
 - 📫 How to reach me **thephd0313@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/paras-dongre-97462424a/](https://www.linkedin.com/in/paras-dongre-97462424a/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/paras-dongre-97462424a/)
 
-- ⚡ Fun fact **I read novels**
+- ⚡ Fun fact **I read novels, light novels, manga.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
