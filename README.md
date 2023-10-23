@@ -52,8 +52,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thephd1331&" alt="thephd1331" /></p>
 
-  
+  <br/>
 
-- My Hacktoberfest Badges: 
 
 [![An image of @thephd1331's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thephd1331)](https://holopin.io/@thephd1331)
