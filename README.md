@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **java, spring boot, REST APIs, backend development.**
 
-- 📫 How to reach me **thephd0313@gmail.com**
+- 📫 How to reach me **parasdongre45@gmail.com**
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/paras-dongre-97462424a/)
 
