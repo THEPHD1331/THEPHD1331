@@ -47,17 +47,16 @@
 
 <h3 align="left">My Github Stats:</h3>
 
-  <a href="https://github.com/THEPHD1331/github-readme-stats"><img alt="Paras Dongre's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEPHD1331&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<!-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thephd1331&" alt="thephd1331" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thephd1331&show_icons=true&locale=en" alt="thephd1331" /></p> -->
-
-  <br/> 
+  [![parasdongre45's GitHub | Stats](https://stats.quine.sh/parasdongre45/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=parasdongre45)  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/THEPHD1331/github-readme-stats"><img alt="Paras Dongre's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEPHD1331&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> <br/>
   
-  [![parasdongre45's GitHub | Stats](https://stats.quine.sh/parasdongre45/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=parasdongre45)  <br/> <br/>
   [![parasdongre45's GitHub | Topics Over Time](https://stats.quine.sh/parasdongre45/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=parasdongre45)  <br/> <br/>
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=THEPHD1331&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />  <br/> <br/>
 
 
   [![An image of @thephd1331's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thephd1331)](https://holopin.io/@thephd1331)
+
+  <!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thephd1331&" alt="thephd1331" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thephd1331&show_icons=true&locale=en" alt="thephd1331" /></p> -->
+
