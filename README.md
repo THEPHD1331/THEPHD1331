@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **parasdongre45@gmail.com**
 
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/paras-dongre-97462424a/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/parasdongre45)
 
 - ⚡ Fun fact **I read novels, light novels, manga.**
 
