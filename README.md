@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thephd1331" alt="thephd1331" /></a> </p>
 
-- 🔭 I’m currently working on **A Spring MVC Project**
+- 🔭 I’m currently working on **Spring Boot DevOps**
 
 - 👯 I’m looking to collaborate on **spring boot projects, full stack java projects**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/THEPHD1331?tab=repositories)
 
-- 💬 Ask me about **java, spring boot, REST APIs, backend development.**
+- 💬 Ask me about **java, spring boot, REST APIs, backend development, devOps.**
 
 - 📫 How to reach me **parasdongre45@gmail.com**
 
@@ -54,6 +54,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thephd1331&show_icons=true&locale=en" alt="thephd1331" /></p> -->
 
   <br/> 
+  
+  [![parasdongre45's GitHub | Stats](https://stats.quine.sh/parasdongre45/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=parasdongre45)  <br/> <br/>
+  [![parasdongre45's GitHub | Topics Over Time](https://stats.quine.sh/parasdongre45/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=parasdongre45)  <br/> <br/>
 
-
-[![An image of @thephd1331's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thephd1331)](https://holopin.io/@thephd1331)
+  [![An image of @thephd1331's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thephd1331)](https://holopin.io/@thephd1331)
