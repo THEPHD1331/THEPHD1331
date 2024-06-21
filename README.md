@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parasdongre45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paras-dongre-97462424a/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/thephd0313" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thephd0313" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/parasdongre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parasdongre" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/parasdongre45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parasdongre45" height="40" width="50" /></a>  
 <a href="https://dev.to/parasdongre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="parasdongre" height="40" width="50" /></a>  
 <a href="https://medium.com/@parasdongre45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parasdongre45" height="40" width="50" /></a>
 </p>
