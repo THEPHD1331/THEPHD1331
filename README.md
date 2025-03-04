@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paras Dongre</h1>
 <h3 align="center">A curious and enthusiastic developer</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thephd1331&label=Profile%20views&color=0e75b6&style=flat" alt="thephd1331" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thephd1331&label=Profile%20views&color=0e75b6&style=flat" alt="thephd1331" /> </p> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thephd1331" alt="thephd1331" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thephd1331" alt="thephd1331" /></a> </p> -->
 
 - 🔭 I’m currently working on **Java**
 
@@ -50,13 +50,11 @@
 </p>
 <br/>
 
-<h3 align="left">My Github Stats:</h3>
-
-  [![parasdongre45's GitHub | Stats](https://stats.quine.sh/parasdongre45/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=parasdongre45)  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/THEPHD1331/github-readme-stats"><img alt="Paras Dongre's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEPHD1331&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> <br/>
+ <!-- [![parasdongre45's GitHub | Stats](https://stats.quine.sh/parasdongre45/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=parasdongre45)  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://github.com/THEPHD1331/github-readme-stats"><img alt="Paras Dongre's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEPHD1331&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> <br/> -->
   
-  [![parasdongre45's GitHub | Topics Over Time](https://stats.quine.sh/parasdongre45/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=parasdongre45)  <br/> <br/>
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=THEPHD1331&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />  <br/> <br/>
+  <!--[![parasdongre45's GitHub | Topics Over Time](https://stats.quine.sh/parasdongre45/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=parasdongre45)  <br/> <br/>
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=THEPHD1331&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />  <br/> <br/> -->
 
 
   [![An image of @thephd1331's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thephd1331)](https://holopin.io/@thephd1331)
